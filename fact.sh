@@ -1,6 +1,5 @@
 #!/bin/bash
-echo "enter the number"
-read a
+a=5
 m=$a
 sum=1
 while [ $a -gt 0 ]
